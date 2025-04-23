@@ -1,4 +1,3 @@
-// package.json
 {
   "name": "hamster-game",
   "version": "1.0.0",
@@ -19,4 +18,4 @@
     "vite": "^4.0.0",
     "@vitejs/plugin-react": "^4.0.0"
   }
-}
+} 
